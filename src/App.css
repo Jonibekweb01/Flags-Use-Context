@@ -1,0 +1,17 @@
+.container {
+  max-width: 1340px;
+  width: 100%;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+.holder {
+  padding: 48px 0;
+}
+
+.holder__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 48px;
+}
